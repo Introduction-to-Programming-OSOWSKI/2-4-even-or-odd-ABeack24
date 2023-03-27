@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 def isEven(x):
-    if x== x%2:
+    if x%2 == 0:
         return True
     else:
         return False
